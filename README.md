@@ -1,5 +1,5 @@
-SIKC-4B
-Kelompok 5: Pemrograman Aplikasi Perangkat Bergerak
+<h2>SIKC-4B</h2>
+<h3>Kelompok 5: Pemrograman Aplikasi Perangkat Bergerak</h3>
 
 1. Nur Syifa Nadya Rahmi (C050422038)
 2. Nurul Hikmah (C050422040)
